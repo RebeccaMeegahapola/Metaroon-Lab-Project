@@ -1,0 +1,70 @@
+* Typescript
+
+	* Alternative to javascript
+	* TypeScript is a strongly typed, object oriented, compiled language. 
+	* Allows us to use strict types
+	* Supports modern features [Arrows functions, let, const]
+	* Extra features [generics, interfaces, tuples]
+	* TypeScript supports other JS libraries.
+
+
+* Compile - tsc sandbox.ts 
+* Auto compile - tsc sandbox.ts -w
+
+* tsc --init - tsconfig.json ->
+	outDir - public
+	rootDir - src
+
+* multiple ts files compile -> tsc
+* compile & watch -> tsc -w
+
+* Classes - class is a blueprint for an object
+
+* Access Modifiers 
+	1. readonly
+	2. private
+	3. public
+
+* Generics
+	Allow us to create reusable block of code which can be used with different types
+
+* enums
+	enums are special type in typescript which allows us to store set of constants or keywords and associate them 
+	with a numeric value
+
+	Enums in TypeScript allow you to define a set of named constants.
+
+	An enumeration is a collection of related values that can be numeric or string values. 
+	enum makes it easy to handle sets of related constants in a more readable way.
+
+* Tuple
+	Tuple types allow you to express an array with a fixed number of elements whose types are known
+
+* Union
+	pipe symbol (|)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+work and learn+ 80 1342/=
+
+
+

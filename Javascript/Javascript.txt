@@ -1,0 +1,62 @@
+* Web Application has 3 components.
+	1. Frontend
+	2. Backend - basic logics/ validations
+	3. Database - storage of the data
+
+* How does browser know it's javascript or other language?
+	File extension [.js/ .css/ .html]
+
+* Framework
+	A framework consists of reusable software components that provide a foundation for developing applications.
+	A framework is a tool for organizing information. 
+	A framework is a set of pre-written code and tools that provide a structure for building applications. 
+
+* JS frameworks
+	1. react JS
+	2. Angular JS
+	3. Vue JS
+	4. Node JS - for backend
+
+* JS data types:
+	1. Number
+	2. String
+	3. Boolean
+	4. Array - is a list
+	5. Object - group information/ key, value pairs
+
+	6. Null
+	7. Undefined
+
+* Character and string 
+	Character: A character is a single symbol, letter, or digit. 
+		   EX: 'a', '1', or '$'
+
+	String - A string is a sequence of characters.
+		 EX: "hello", "12345", or "$%&"
+
+* Conditionals and Operators
+	1. Comparison Operator
+	2. Conditionals (if else)
+	3. Logical operator
+
+1. Comparison Operator 
+	The conditional operator [ternary] operator is the only js operator that
+	takes three operands which acts as a shortcut for if statement.
+	
+	condition ? expressionIfTrue : expressionIfFalse
+
+What is the difference between == and ===?
+
+	* The == is equality check operator. Check if the values are matching.
+	* The === is called strict operator and check both the value and data 
+	type of the elements.
+
+	* Doubles equals checks for value only. 
+	* Tribles equals checks for value and its type. 
+
+* Functions
+
+	* A JavaScript function is a block of JavaScript code designed to perform a particular task. 
+
+	1) We can reuse code: Define the code once, and use it many times.
+        2) We can use the same code many times with different arguments, to produce different results.
